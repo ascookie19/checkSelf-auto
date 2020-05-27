@@ -1,1 +1,1 @@
-# --AUTO
+# checkSelf-auto
