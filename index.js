@@ -13,8 +13,8 @@ const UserOption = {
 		rtnRsltCode: '',
 		schulCode: schoolCode,
 		schulNm: '서령고등학교',
-		pName: '오승준',
-		frnoRidno: '020805',
+		pName: '지성빈',
+		frnoRidno: '021202',
 		aditCrtfcNo: '',
 	},
 }
