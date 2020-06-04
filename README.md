@@ -6,6 +6,7 @@
 <br><br>
 2. http://localhost:3000/storage?name=이름birth=생일
 > ex) http://localhost:3000/storage?name=지성빈&birth=021202
+
 <br><br>
 3. http://localhost:3000/push
 <br><br>
