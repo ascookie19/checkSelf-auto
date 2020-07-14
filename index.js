@@ -62,10 +62,9 @@ module.exports = {
 						}
 		
 						request.post(lastoption, function (error, response, body) {
-							if(error) console.log(error); //에러가 발생할 경우 에러를 출력
+							if(error) console.log(error); 
 							else {
-								// console.log(body);
-								console.log(`Name: ${Name} Birth: ${Birth} 연동끝`);
+								console.log(`Name: ${Name} Birth: ${Birth} 작업 성공`);
 							}
 						});
 					}
