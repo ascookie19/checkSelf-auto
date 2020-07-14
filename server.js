@@ -3,12 +3,6 @@ const index = require('./index');
 
 const app = express();
 
-const Name = express();
-
-// YES 사용자 정보를 니가 다알고있다 그러면 get줄때 쿼리스트링으로 값을 줄 이유가 있나??? << 
-// API
-
-
 let UserName = [];
 let BirthDay = [];
 
@@ -44,6 +38,3 @@ app.get('/push', (req, res) => {
 app.listen(3000, 'localhost', () => {
     console.log('Server ON');
 });
-
-// pName: '오승준',
-// frnoRidno: '020805',
